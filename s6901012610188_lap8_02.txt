@@ -1,0 +1,7 @@
+Notebook,25.50,100
+Pen,10.00,250
+Backpack,450.00,30
+USB Flash Drive,199.00,80
+Water Bottle,89.00,150
+Headphones,590.00,20
+Calculator,120.00,45

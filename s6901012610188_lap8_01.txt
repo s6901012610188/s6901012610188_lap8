@@ -1,0 +1,4 @@
+S001,Somchai,Computer Science,20
+S002,Suda,Business Administration,19
+S003,Anan,Engineering,22
+S004,Malee,Information Technology,18
